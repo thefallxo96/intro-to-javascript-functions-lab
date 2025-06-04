@@ -91,6 +91,7 @@ Example: greetUser('Sam', 'morning') should return "Good morning, Sam!"
 
 Complete the exercise in the space below:
 */
+ console.log("test");
 
 const greetUser = (name, timeOfDay) => {
   return `Good ${timeOfDay}, ${name}!`;
